@@ -6,19 +6,22 @@ interface Props {
     value?: string;
 }
 
-export function LanguagePicker({ options, onChange, value }: Props) {
+export function LanguagePicker({options, onChange, value}: Props) {
     return (
-        <select
-            name="language"
-            id="language"
-            defaultValue={value}
-            onChange={(e) => onChange(e.target.value)}
-        >
-            {options.map((op) => (
-                <option value={op} key={op}>
-                    {op}
-                </option>
-            ))}
-        </select>
+        <>
+            <h3>Select language:</h3>
+            <select
+                name="language"
+                id="language"
+                defaultValue={value}
+                onChange={(e) => onChange(e.target.value)}
+            >
+                {options.map((op) => (
+                    <option value={op} key={op}>
+                        {op}
+                    </option>
+                ))}
+            </select>
+        </>
     );
 }
