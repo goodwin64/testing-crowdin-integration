@@ -1,8 +1,7 @@
 import React from "react";
-import { useL10n } from "./useL10n";
+import {Lang, useL10n} from "./useL10n";
 
-export function PhrasesDemo() {
-    const { lang, translations } = useL10n();
+export function PhrasesDemo({ lang, translations}: { lang: Lang, translations: Record<string, string> }) {
     return (
         <>
             <p>current lang: {lang}</p>

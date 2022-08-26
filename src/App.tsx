@@ -4,7 +4,7 @@ import { PhrasesDemo } from "./PhrasesDemo";
 import { useL10n } from "./useL10n";
 
 export function App() {
-  const { lang, onLangChange, langOptions } = useL10n();
+  const { lang, onLangChange, langOptions, translations } = useL10n();
 
   return (
       <div>
@@ -14,7 +14,7 @@ export function App() {
             value={lang}
             options={langOptions}
         />
-        <PhrasesDemo />
+        <PhrasesDemo lang={lang} translations={translations} />
       </div>
   );
 }
