@@ -175,7 +175,7 @@
     "recordingNotificationOnePerson": "{{name}}がルームを録画しています",
     "recordingNotificationMoreThanOnePerson": "このルームは録画されています",
     "recordingMeetingNotificationOnePerson": "{{name}} 会議を記録しています",
-    "recordingMeetingNotificationMoreThanOnePerson":"会議は記録されています",
+    "recordingMeetingNotificationMoreThanOnePerson": "会議は記録されています",
     "recordingLeave": "退室",
     "invitePeopleToEvent": "イベントへ招待",
     "connectToSpace": "チームに参加して参加者を見る"
