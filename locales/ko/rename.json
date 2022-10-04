@@ -1,10 +1,10 @@
 {
-  "notFound": "찾을 수 없습니다",
-  "orgName": "조직 이름",
-  "searchName": "검색 이름",
-  "searchId": "검색 ID",
-  "newOrgName": "새 조직 이름",
-  "important": "중요",
-  "afterRenamingAnOrgGoToColyseusViaTheLinkBelowAndDisposeTheRoom": "조직 이름을 변경한 후 아래 링크를 통해 colyseus로 이동하여 방을 처분합니다:",
-  "renameOrg": "조직의 이름 바꾸기"
+  "notFound": "Not found",
+  "orgName": "Org name",
+  "searchName": "Search Name",
+  "searchId": "Search ID",
+  "newOrgName": "New org name",
+  "important": "Important",
+  "afterRenamingAnOrgGoToColyseusViaTheLinkBelowAndDisposeTheRoom": "After renaming an org go to colyseus via the link below and dispose the room:",
+  "renameOrg": "Rename org"
 }
