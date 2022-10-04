@@ -1,8 +1,8 @@
 {
-  "title": "組織のルームを削除",
-  "notFound": "見つかりませんでした",
-  "orgName": "組織名",
-  "searchName": "名前の検索",
-  "searchId": "検索ID",
-  "delete": "消去"
+  "title": "Delete Rooms for Organization",
+  "notFound": "Not found",
+  "orgName": "Org name",
+  "searchName": "Search Name",
+  "searchId": "Search ID",
+  "delete": "Delete"
 }
