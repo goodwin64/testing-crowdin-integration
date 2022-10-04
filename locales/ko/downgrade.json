@@ -1,7 +1,7 @@
 {
-  "notFound": "見つかりませんでした",
-  "orgName": "組織名",
-  "searchName": "名前の検索",
-  "searchId": "検索ID",
-  "downgradeToFree": "無料プランにダウングレード"
+  "notFound": "찾을 수 없습니다",
+  "orgName": "조직 이름",
+  "searchName": "검색 이름",
+  "searchId": "검색 ID",
+  "downgradeToFree": "무료로 다운그레이드"
 }
