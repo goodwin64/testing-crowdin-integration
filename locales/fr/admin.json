@@ -1,3 +1,10 @@
 {
-  "deleteUserQuestion": "Ви впевнені, що хочете видалити цього користувача?"
+  "orgCreated": "Organisation créée :",
+  "guestInviteUrl": "URL d'invitation d’invités :",
+  "searchUsers": "Rechercher des utilisateurs",
+  "foundUsers": "Utilisateurs trouvés:",
+  "selectedUserData": "Données utilisateur sélectionnées:",
+  "userDeleted": "Supprimé",
+  "userNotDeleted": "Non supprimé",
+  "applyUpdates": "Appliquer les mises à jour"
 }
