@@ -1,9 +1,9 @@
 {
-  "notFound": "見つかりませんでした",
-  "orgName": "組織名",
-  "searchName": "名前の検索",
-  "searchId": "検索ID",
-  "trialLengthDays": "トライアル期間(日数)",
-  "freeTrialDays": "無料トライアル期間",
-  "updateTrial": "トライアルを更新"
+  "notFound": "Not found",
+  "orgName": "Org name",
+  "searchName": "Search Name",
+  "searchId": "Search ID",
+  "trialLengthDays": "Trial Length (Days)",
+  "freeTrialDays": "free trial days",
+  "updateTrial": "Update Trial"
 }
