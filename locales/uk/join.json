@@ -1,6 +1,6 @@
 {
-  "errorJoiningWorkspaceYouMayHaveClickedOnAnInvalidOrExpiredLink": "Erreur en rejoignant l'espace de travail, vous avez peut-être cliqué sur un lien invalide ou expiré.",
-  "loading": "Chargement…",
-  "youAreInvitedToJoinOrgNameSOffice": "Vous êtes invité à rejoindre le bureau de {{orgName}}",
-  "continueWithGoogle": "Continuer avec Google"
+  "errorJoiningWorkspaceYouMayHaveClickedOnAnInvalidOrExpiredLink": "ワークスペースに参加できませんでした、無効または期限切れのリンクをクリックした可能性があります。",
+  "loading": "読込中…",
+  "youAreInvitedToJoinOrgNameSOffice": "{{orgName}}に招待されています",
+  "continueWithGoogle": "Googleで続ける"
 }
