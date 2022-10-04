@@ -1,11 +1,11 @@
 {
-  "missingRedirectUriParameter": "Paramètre redirect_uri manquant",
-  "missingStateParameter": "Paramètre state manquant",
-  "loading": "Chargement…",
-  "requesterWantsToAccessYourTeamflowAccount": "{{requester}} souhaite accéder à votre compte Teamflow",
+  "missingRedirectUriParameter": "Missing redirect_uri parameter",
+  "missingStateParameter": "Missing state parameter",
+  "loading": "Loading…",
+  "requesterWantsToAccessYourTeamflowAccount": "{{requester}} wants to access your Teamflow account",
   "errorErrorMsg": "Erreur : {{errorMsg}}",
-  "thisWillAllowRequesterTo": "Cela permettra à {{requester}} de :",
-  "seeYourTeamflowRoomNamesAndInviteLinks": "• Voir les noms de vos salles Teamflow et les liens d'invitation",
-  "allowAccess": "Autoriser l'accès",
+  "thisWillAllowRequesterTo": "This will allow {{requester}} to:",
+  "seeYourTeamflowRoomNamesAndInviteLinks": "• See your Teamflow room names and invite links",
+  "allowAccess": "Allow access",
   "cancel": "Annuler"
 }
