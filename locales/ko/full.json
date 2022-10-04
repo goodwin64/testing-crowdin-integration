@@ -1,7 +1,7 @@
 {
-  "thisSpaceIsFull": "이 공간은 다 찼습니다.",
-  "theMeetingYouAreTryingToJoinIsAtTheLimit": "참석하려는 회의가 꽉 찼습니다.",
-  "getYourOwnTeamflow": "나만의 Teamflow를 얻으세요.",
-  "createYourOwnSpaceInSeconds": "몇 초 만에 나만의 공간을 만드세요.",
-  "signUpFree": "무료로 가입하세요"
+  "thisSpaceIsFull": "This space is full.",
+  "theMeetingYouAreTryingToJoinIsAtTheLimit": "The meeting you are trying to join is full.",
+  "getYourOwnTeamflow": "Get your own Teamflow.",
+  "createYourOwnSpaceInSeconds": "Create your own space in seconds.",
+  "signUpFree": "Sign up for free"
 }
