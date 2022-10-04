@@ -1,4 +1,4 @@
 {
-  "youAreLoggedInToInAnotherWindow": "別のウィンドウで<0> {{orgName}} </0>にログインしています",
-  "rejoinFromHere": "ここからもう一度参加する"
+  "youAreLoggedInToInAnotherWindow": "You are logged in to <0>{{orgName}}</0> in another window.",
+  "rejoinFromHere": "Rejoin from here"
 }
