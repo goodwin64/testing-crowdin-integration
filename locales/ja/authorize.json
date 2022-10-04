@@ -1,0 +1,11 @@
+{
+  "missingRedirectUriParameter": "redirect_uriパラメーターがありません",
+  "missingStateParameter": "ルームへのアクセス権がありません",
+  "loading": "読込中…",
+  "requesterWantsToAccessYourTeamflowAccount": "{{requester}}があなたのTeamflowアカウントにアクセスしようとしています。",
+  "errorErrorMsg": "エラー：{{errorMsg}}",
+  "thisWillAllowRequesterTo": "これにより、{{requester}}に対し以下が許可されます。",
+  "seeYourTeamflowRoomNamesAndInviteLinks": "•Teamflowのルーム名と招待リンクを確認する",
+  "allowAccess": "アクセスを許可する",
+  "cancel": "キャンセル"
+}

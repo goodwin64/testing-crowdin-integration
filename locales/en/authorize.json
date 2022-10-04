@@ -1,0 +1,11 @@
+{
+  "missingRedirectUriParameter": "Missing redirect_uri parameter",
+  "missingStateParameter": "Missing state parameter",
+  "loading": "Loading…",
+  "requesterWantsToAccessYourTeamflowAccount": "{{requester}} wants to access your Teamflow account",
+  "errorErrorMsg": "Error: {{errorMsg}}",
+  "thisWillAllowRequesterTo": "This will allow {{requester}} to:",
+  "seeYourTeamflowRoomNamesAndInviteLinks": "• See your Teamflow room names and invite links",
+  "allowAccess": "Allow access",
+  "cancel": "Cancel"
+}

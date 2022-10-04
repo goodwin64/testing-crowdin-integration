@@ -1,0 +1,6 @@
+{
+  "errorJoiningWorkspaceYouMayHaveClickedOnAnInvalidOrExpiredLink": "ワークスペースに参加できませんでした、無効または期限切れのリンクをクリックした可能性があります。",
+  "loading": "読込中…",
+  "youAreInvitedToJoinOrgNameSOffice": "{{orgName}}に招待されています",
+  "continueWithGoogle": "Googleで続ける"
+}

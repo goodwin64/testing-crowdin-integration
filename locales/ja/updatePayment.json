@@ -1,0 +1,8 @@
+{
+  "aCompleteAddressIsRequired": "住所登録を完了させてください",
+  "noPaymentMethodWasCreated": "支払方法が未登録です",
+  "somethingWentWrongPleaseTryAgainLater": "もう一度やり直してください",
+  "updatePaymentMethod": "支払い方法を更新",
+  "useThisFormToUpdateThePaymentMethodForOrgName": "こちらのフォームから{{orgName}}のお支払い方法の更新をしてください",
+  "update": "更新"
+}

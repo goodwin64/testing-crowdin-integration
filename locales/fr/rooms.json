@@ -1,0 +1,8 @@
+{
+  "title": "Supprimer des salles pour l'organisation",
+  "notFound": "Introuvable",
+  "orgName": "Nom de l’organisation",
+  "searchName": "Rechercher le nom",
+  "searchId": "ID de recherche",
+  "delete": "Supprimer"
+}

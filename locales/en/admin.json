@@ -1,3 +1,10 @@
 {
-  "deleteUserQuestion": "Are you sure you want to delete this user?"
+  "orgCreated": "Org Created:",
+  "guestInviteUrl": "Guest Invite Url:",
+  "searchUsers": "Search users",
+  "foundUsers": "Found users:",
+  "selectedUserData": "Selected user data:",
+  "userDeleted": "Deleted",
+  "userNotDeleted": "Not deleted",
+  "applyUpdates": "Apply updates"
 }
