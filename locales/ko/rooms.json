@@ -1,8 +1,8 @@
 {
-  "title": "조직을 위한 회의실 삭제",
-  "notFound": "찾을 수 없습니다",
-  "orgName": "조직 이름",
-  "searchName": "검색 이름",
-  "searchId": "검색 ID",
-  "delete": "삭제"
+  "title": "Delete Rooms for Organization",
+  "notFound": "Not found",
+  "orgName": "Org name",
+  "searchName": "Search Name",
+  "searchId": "Search ID",
+  "delete": "Delete"
 }
