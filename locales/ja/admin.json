@@ -1,10 +1,3 @@
 {
-  "orgCreated": "作成された組織：",
-  "guestInviteUrl": "ゲスト招待URL：",
-  "searchUsers": "Search users",
-  "foundUsers": "Found users:",
-  "selectedUserData": "Selected user data:",
-  "userDeleted": "Deleted",
-  "userNotDeleted": "Not deleted",
-  "applyUpdates": "Apply updates"
+  "deleteUserQuestion": "Ви впевнені, що хочете видалити цього користувача?"
 }
