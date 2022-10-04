@@ -1,8 +1,0 @@
-{
-  "aCompleteAddressIsRequired": "완전한 주소가 필요합니다",
-  "noPaymentMethodWasCreated": "결제 수단이 생성되지 않았습니다.",
-  "somethingWentWrongPleaseTryAgainLater": "문제가 발생했습니다. 나중에 다시 시도해주세요.",
-  "updatePaymentMethod": "지불 방법을 업데이트하세요",
-  "useThisFormToUpdateThePaymentMethodForOrgName": "이 양식을 사용하여 {{orgName}}의 결제 수단을 업데이트하세요.",
-  "update": "업데이트"
-}

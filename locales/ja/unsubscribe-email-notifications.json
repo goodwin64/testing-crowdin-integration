@@ -1,6 +1,0 @@
-{
-  "unsubscribeError": "解約手続きがうまくいきませんでした",
-  "unsubscribeButtonText": "登録解除",
-  "sorryToSeeYouGo": "サブスクリプションの登録解除が完了しました",
-  "whereToClick": "\"Unsubscribe \"をクリックし、{{emailAddr}}から所属組織のイベントに関するEmailの受信を停止します。"
-}

@@ -1,8 +1,0 @@
-{
-  "aCompleteAddressIsRequired": "A complete address is required",
-  "noPaymentMethodWasCreated": "No payment method was created",
-  "somethingWentWrongPleaseTryAgainLater": "Something went wrong, please try again later",
-  "updatePaymentMethod": "Update Payment Method",
-  "useThisFormToUpdateThePaymentMethodForOrgName": "Use this form to update the payment method for {{orgName}}",
-  "update": "Update"
-}

@@ -1,6 +1,0 @@
-{
-  "unsubscribeError":"Une erreur s'est produite lors du processus de désinscription.",
-  "unsubscribeButtonText":"Se désabonner",
-  "sorryToSeeYouGo": "Nous sommes désolés de te voir partir. Vous avez été désabonné avec succès.",
-  "whereToClick":"Cliquez sur \"se désinscrire\" pour ne plus recevoir d'e-mails relatifs aux événements qui se déroulent dans votre organisation Teamflow sur cette adresse e-mail: {{emailAddr}}"
-}
