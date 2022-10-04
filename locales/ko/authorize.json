@@ -1,11 +1,11 @@
 {
-  "missingRedirectUriParameter": "redirect_uriパラメーターがありません",
-  "missingStateParameter": "ルームへのアクセス権がありません",
-  "loading": "読込中…",
-  "requesterWantsToAccessYourTeamflowAccount": "{{requester}}があなたのTeamflowアカウントにアクセスしようとしています。",
-  "errorErrorMsg": "エラー：{{errorMsg}}",
-  "thisWillAllowRequesterTo": "これにより、{{requester}}に対し以下が許可されます。",
-  "seeYourTeamflowRoomNamesAndInviteLinks": "•Teamflowのルーム名と招待リンクを確認する",
-  "allowAccess": "アクセスを許可する",
-  "cancel": "キャンセル"
+  "missingRedirectUriParameter": "redirect_uri 매개변수 누락",
+  "missingStateParameter": "상태 매개변수 누락",
+  "loading": "로딩 중…",
+  "requesterWantsToAccessYourTeamflowAccount": "{{requester}}이(가) 귀하의 Teamflow 계정에 액세스하려고 합니다",
+  "errorErrorMsg": "오류: {{errorMsg}}",
+  "thisWillAllowRequesterTo": "이렇게 하면 {{requester}}가 다음을 수행할 수 있습니다:",
+  "seeYourTeamflowRoomNamesAndInviteLinks": "• 귀하의 Teamflow 방 이름 및 초대 링크 보기",
+  "allowAccess": "액세스 허용",
+  "cancel": "취소"
 }
