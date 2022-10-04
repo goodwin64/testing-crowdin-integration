@@ -1,10 +1,10 @@
 {
-    "homeWasSet": "L’emplacement de votre domicile a été défini",
-    "homeSetError": "Impossible de mettre à jour l’emplacement d’accueil, réessayez plus tard",
-    "locationUrlCopied": "Copié l’adresse de cet emplacement dans votre presse-papiers",
-    "moveToLocation": "Déplacer vers l’emplacement",
-    "setHomeLocation": "Définir l’emplacement de la maison",
-    "copyLinkToLocation": "Copier le lien vers l’emplacement",
-    "customizeSpace": "Personnaliser l’espace",
-    "pasteLinkAndOpenInBrowserApp": "Collez le lien du presse-papiers dans une application de navigateur ici"
+    "homeWasSet": "Your home location was set",
+    "homeSetError": "Failed to update home location, try again later",
+    "locationUrlCopied": "Copied the address of this location to your clipboard",
+    "moveToLocation": "Move to location",
+    "setHomeLocation": "Set home location",
+    "copyLinkToLocation": "Copy link to location",
+    "customizeSpace": "Customize space",
+    "pasteLinkAndOpenInBrowserApp": "Paste and open link"
 }
