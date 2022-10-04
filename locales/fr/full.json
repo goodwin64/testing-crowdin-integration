@@ -1,7 +1,7 @@
 {
-  "thisSpaceIsFull": "This space is full.",
-  "theMeetingYouAreTryingToJoinIsAtTheLimit": "The meeting you are trying to join is full.",
-  "getYourOwnTeamflow": "Get your own Teamflow.",
-  "createYourOwnSpaceInSeconds": "Create your own space in seconds.",
-  "signUpFree": "Sign up for free"
+  "thisSpaceIsFull": "Cet espace est plein.",
+  "theMeetingYouAreTryingToJoinIsAtTheLimit": "La réunion que vous essayez de joindre a atteint sa capacité maximale.",
+  "getYourOwnTeamflow": "Obtenez votre propre Teamflow.",
+  "createYourOwnSpaceInSeconds": "Créez votre propre espace en quelques secondes.",
+  "signUpFree": "S’inscrire gratuitement"
 }
