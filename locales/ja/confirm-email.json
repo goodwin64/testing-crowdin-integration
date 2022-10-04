@@ -1,5 +1,5 @@
 {
-  "yourEmailCouldNotBeVerified": "メールアドレスの認証ができませんでした。お問い合わせください",
-  "yourEmailHasBeenConfirmed": "メールアドレスの認証が完了しました。",
-  "goToYourOffice": "自分のオフィスに行く"
+  "yourEmailCouldNotBeVerified": "Your email could not be verified. Please contact ",
+  "yourEmailHasBeenConfirmed": "Your email has been confirmed",
+  "goToYourOffice": "Go to your office"
 }
