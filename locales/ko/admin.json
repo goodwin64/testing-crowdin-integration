@@ -1,10 +1,10 @@
 {
-  "orgCreated": "Organisation créée :",
-  "guestInviteUrl": "URL d'invitation d’invités :",
-  "searchUsers": "Rechercher des utilisateurs",
-  "foundUsers": "Utilisateurs trouvés:",
-  "selectedUserData": "Données utilisateur sélectionnées:",
-  "userDeleted": "Supprimé",
-  "userNotDeleted": "Non supprimé",
-  "applyUpdates": "Appliquer les mises à jour"
+  "orgCreated": "생성된 조직:",
+  "guestInviteUrl": "Guest Invite Url:",
+  "searchUsers": "Search users",
+  "foundUsers": "Found users:",
+  "selectedUserData": "Selected user data:",
+  "userDeleted": "Deleted",
+  "userNotDeleted": "Not deleted",
+  "applyUpdates": "Apply updates"
 }
