@@ -1,8 +1,8 @@
 {
-  "aCompleteAddressIsRequired": "Une adresse complète est requise",
-  "noPaymentMethodWasCreated": "Aucun mode de paiement n'a été créé",
-  "somethingWentWrongPleaseTryAgainLater": "Une erreur s'est produite, veuillez réessayer plus tard",
-  "updatePaymentMethod": "Mettre à jour le mode de paiement",
-  "useThisFormToUpdateThePaymentMethodForOrgName": "Utilisez ce formulaire pour mettre à jour le mode de paiement de {{orgName}}",
-  "update": "Mettre à jour"
+  "aCompleteAddressIsRequired": "住所登録を完了させてください",
+  "noPaymentMethodWasCreated": "支払方法が未登録です",
+  "somethingWentWrongPleaseTryAgainLater": "もう一度やり直してください",
+  "updatePaymentMethod": "支払い方法を更新",
+  "useThisFormToUpdateThePaymentMethodForOrgName": "こちらのフォームから{{orgName}}のお支払い方法の更新をしてください",
+  "update": "更新"
 }
