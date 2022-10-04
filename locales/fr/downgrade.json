@@ -1,7 +1,7 @@
 {
-  "notFound": "Introuvable",
-  "orgName": "Nom de l’organisation",
-  "searchName": "Rechercher le nom",
-  "searchId": "ID de recherche",
-  "downgradeToFree": "Rétrograder à la version gratuite"
+  "notFound": "Not found",
+  "orgName": "Org name",
+  "searchName": "Search Name",
+  "searchId": "Search ID",
+  "downgradeToFree": "Downgrade To Free"
 }
