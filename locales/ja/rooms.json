@@ -1,8 +1,8 @@
 {
-  "title": "Supprimer des salles pour l'organisation",
-  "notFound": "Introuvable",
-  "orgName": "Nom de l’organisation",
-  "searchName": "Rechercher le nom",
-  "searchId": "ID de recherche",
-  "delete": "Supprimer"
+  "title": "組織のルームを削除",
+  "notFound": "見つかりませんでした",
+  "orgName": "組織名",
+  "searchName": "名前の検索",
+  "searchId": "検索ID",
+  "delete": "消去"
 }
