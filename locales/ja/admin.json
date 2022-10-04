@@ -1,10 +1,10 @@
 {
-  "orgCreated": "作成された組織：",
-  "guestInviteUrl": "ゲスト招待URL：",
-  "searchUsers": "ユーザー検索",
-  "foundUsers": "ユーザー検索結果",
-  "selectedUserData": "選択されたユーザーデータ",
-  "userDeleted": "削除されました",
-  "userNotDeleted": "削除されませんでした",
-  "applyUpdates": "更新"
+  "orgCreated": "Organisation créée :",
+  "guestInviteUrl": "URL d'invitation d’invités :",
+  "searchUsers": "Rechercher des utilisateurs",
+  "foundUsers": "Utilisateurs trouvés:",
+  "selectedUserData": "Données utilisateur sélectionnées:",
+  "userDeleted": "Supprimé",
+  "userNotDeleted": "Non supprimé",
+  "applyUpdates": "Appliquer les mises à jour"
 }
