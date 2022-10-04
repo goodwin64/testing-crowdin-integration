@@ -1,6 +1,6 @@
 {
-  "unsubscribeError": "解約手続きがうまくいきませんでした",
-  "unsubscribeButtonText": "登録解除",
-  "sorryToSeeYouGo": "サブスクリプションの登録解除が完了しました",
-  "whereToClick": "\"Unsubscribe \"をクリックし、{{emailAddr}}から所属組織のイベントに関するEmailの受信を停止します。"
+  "unsubscribeError": "구독 취소 과정에서 문제가 발생했습니다.",
+  "unsubscribeButtonText": "구독 취소",
+  "sorryToSeeYouGo": "저희와 더 이상 함께 하지 못해 아쉽습니다. 구독 취소에 성공했습니다.",
+  "whereToClick": "다음 이메일 주소로 Teamflow 조직에서 발생하는 이벤트와 관련된 이메일 수신을 중지하려면 \\\"수신 거부\\\"를 클릭하십시오. {{emailAddr}}"
 }
