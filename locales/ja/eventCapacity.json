@@ -1,6 +1,6 @@
 {
-  "thisEventIsFull": "このイベントはいっぱいです。",
-  "theEventYouAreTryingToJoinIsAtTheLimit": "参加しようとしているイベントは満員です。",
-  "pleaseWaitAFewMomentsThenTryJoiningAgain": "少し待ってから、もう一度参加してみてください。",
-  "tryAgain": "再試行"
+  "thisEventIsFull": "This event is full.",
+  "theEventYouAreTryingToJoinIsAtTheLimit": "The event you are trying to join is full.",
+  "pleaseWaitAFewMomentsThenTryJoiningAgain": "Please wait a few moments then try joining again.",
+  "tryAgain": "Try again"
 }
