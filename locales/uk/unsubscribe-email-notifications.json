@@ -1,0 +1,6 @@
+{
+  "unsubscribeError": "Something went wrong during unsubcription process.",
+  "unsubscribeButtonText": "Unsubscribe",
+  "sorryToSeeYouGo": "We're sorry to see you go. You've been succesfully unsubscribed.",
+  "whereToClick": "Click \"unsubscribe\" to stop receiving emails relating to events happening in your Teamflow organization on this email address: {{emailAddr}}"
+}
